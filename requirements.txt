@@ -1,0 +1,5 @@
+python-telegram-bot==20.3
+requests
+mexc-sdk==2.0.0
+python-dotenv
+aiohttp
